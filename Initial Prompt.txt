@@ -1,5 +1,5 @@
 Project: Angular Multi-Page Portfolio Website with GitHub Integration
-
+Name-Atharva Gulhane
 Objective:
 Build a modern, responsive, multi-page portfolio website using Angular and CSS, featuring:
 - Dynamic GitHub repo and README fetching
